@@ -1,0 +1,40 @@
+.me {
+    width: 150px;
+    height: 100px;
+}
+
+header, h1{
+    text-align: center;
+    background-color: rgb(177, 182, 157);
+}
+
+body {
+    background-color: white;
+}
+
+
+
+footer{
+    background-color: rgba(122, 19, 19, 0);
+}
+
+nav a{
+    margin: 5%;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 1%;
+    background-color:white;
+    color: black;
+}
+
+.my{
+    margin: 5%;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 1%;
+   background-color:black;
+    color: white; 
+}
+
